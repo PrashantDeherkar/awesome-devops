@@ -47,6 +47,9 @@ Process
 
 ### Automation
 
+- [Jenkins CI](https://jenkins.io/) - The leading open source automation server, Jenkins provides hundreds of plugins to support building, deploying and automating any project.
+- [fastlane](https://fastlane.tools/) - fastlane is an open source platform aimed at simplifying Android and iOS deployment.
+
 ### Quality
 
 ### Open Source
